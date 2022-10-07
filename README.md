@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adil Abdurrazakli
+- 👀 I’m interested in Software Architecture, Software Product Management. 
+- 🕴️ I have backend development experience in Java, Spring Boot, REST API. 
+- 🌱 I’m currently learning DevOps culture and tools, Kotlin.
+- 📫 How to reach me: via [Linkedin](https://www.linkedin.com/in/adilabdurrazakli/)
